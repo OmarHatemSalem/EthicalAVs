@@ -1,0 +1,2 @@
+# python planner/Frenet/frenet_planner.py --scenario "../commonroad-scenarios/scenarios/interactive/scenario-factory/ITA_Segrate-1_3_I-1-1/ITA_Segrate-1_3_I-1-1.cr.xml"
+python planner/Frenet/frenet_planner.py 
